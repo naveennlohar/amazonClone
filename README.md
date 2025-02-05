@@ -1,2 +1,2 @@
 # amazonClone
-Created UI of amazon.com 
+Created UI of amazon.com home page.
