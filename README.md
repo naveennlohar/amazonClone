@@ -41,8 +41,9 @@ An **Amazon.com clone** built using **HTML and CSS** to replicate the homepage d
 
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/yourusername/amazon-clone.git
-   ```
+[   git clone https://github.com/yourusername/amazon-clone.git
+](https://github.com/naveennlohar/amazonClone)   
+```
 2. **Open `index.html`** in a browser  
 
 ## 📌 Future Enhancements  
