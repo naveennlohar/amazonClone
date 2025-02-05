@@ -19,9 +19,6 @@ An **Amazon.com clone** built using **HTML and CSS** to replicate the homepage d
 │── README.md         # Project documentation  
 ```
 
-## 🌐 Live Demo  
-[🔗 View Live Project](#) *(Add your GitHub Pages link here)*  
-
 ## 🛠 Technologies Used  
 
 - **HTML5** - Markup for structuring the webpage  
@@ -31,11 +28,6 @@ An **Amazon.com clone** built using **HTML and CSS** to replicate the homepage d
 ![amazon_clone](https://github.com/user-attachments/assets/7d6a1315-dc17-4f57-a0c8-bd4bcecbed3e)
 ![amazon_clone_2](https://github.com/user-attachments/assets/fa2d2832-f296-403c-a817-dd4862d2eb36)
 ![amazon_clone_3](https://github.com/user-attachments/assets/d11285d7-b01c-441b-9480-9926927d1a5a)
-
-
-
-
-
 
 ## 🔧 How to Use  
 
